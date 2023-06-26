@@ -1,0 +1,1 @@
+The 2 zip files in this folder are placeholders. This is where you need to place the zip files to be extracted. Contents will end up in the destination/ folder.
