@@ -7,4 +7,4 @@ Repo of various python automation projects and scripts.
 - sql-databases: Automates tasks with extracting or inserting data into SQL databases.
 - text_processing: Creates files with content.
 - download_upload_files: Download and upload files.
-- speech_recognition: Analayze .wav file and determine if speech is positive or negative.
+- speech_recognition: Analayze .wav file and determine if speech is positive or negative using NLTK.
