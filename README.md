@@ -9,3 +9,4 @@ Repo of various python automation projects and scripts.
 - download_upload_files: Download and upload files.
 - speech_recognition: Analayze .wav file and determine if speech is positive or negative using NLTK.
 - controlling audio, mouse, keyboard: Various scripts for screen capture and control of peripherals
+- check_stats: Checks CPU, RAM and Storage Info on machine using psutils
