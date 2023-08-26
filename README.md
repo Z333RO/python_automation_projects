@@ -8,3 +8,4 @@ Repo of various python automation projects and scripts.
 - text_processing: Creates files with content.
 - download_upload_files: Download and upload files.
 - speech_recognition: Analayze .wav file and determine if speech is positive or negative using NLTK.
+- controlling audio, mouse, keyboard: Various scripts for screen capture and control of peripherals
