@@ -10,3 +10,4 @@ Repo of various python automation projects and scripts.
 - speech_recognition: Analayze .wav file and determine if speech is positive or negative using NLTK.
 - controlling audio, mouse, keyboard: Various scripts for screen capture and control of peripherals
 - check_stats: Checks CPU, RAM and Storage Info on machine using psutils
+- flashcards_tool: Run this python script to take a json file and have a command line flashcards tool to help prepare for exams.
